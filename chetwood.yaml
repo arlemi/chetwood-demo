@@ -9,7 +9,7 @@ servers:
 paths:
   /accounts:
     get:
-      summary: List all accounts
+      summary: List all accounts why not
       responses:
         '200':
           description: A list of accounts
